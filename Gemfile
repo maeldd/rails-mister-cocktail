@@ -41,6 +41,7 @@ end
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
+  gem "faker"
   gem 'better_errors'
   gem 'binding_of_caller'
   gem 'web-console'
